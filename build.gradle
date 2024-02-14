@@ -11,8 +11,9 @@ compileTestJava.options.encoding = "UTF-8"
 
 repositories {
     mavenCentral()
-}
 
+
+}
 
 dependencies {
     testImplementation 'io.rest-assured:rest-assured:5.3.1'
